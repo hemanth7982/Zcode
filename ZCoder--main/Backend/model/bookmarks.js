@@ -13,7 +13,7 @@ const BookmarkSchema = new mongoose.Schema({
   title: {
     type: String,
     required: true
-  },
+  },// this is css
   solutions: [
     {
       solutionId: {
